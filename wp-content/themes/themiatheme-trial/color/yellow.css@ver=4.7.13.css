@@ -1,0 +1,19 @@
+#menu li {
+	background:url('images/nav-yellow.png') no-repeat -1px -34px;
+}
+#menu li a {
+    background:url('images/nav-yellow.png') no-repeat 98% -4px;
+}
+#menu li.current-menu-item, #menu li.current-menu-parent, #menu li.current_page_parent, #menu li:hover, #menu li.current_page_item {
+    background:url('images/nav-yellow.png') no-repeat -1px -154px;
+}
+#menu li.current-menu-item a, #menu li.current-menu-parent a, #menu li.current_page_parent a, #menu li:hover a, #menu li a.selected, #menu li a:hover, #menu li.current_page_item a {
+    color:#fff;
+    background: url('images/nav-yellow.png') no-repeat 98% -124px;
+}
+.feature_content h2, .testimonial_wrapper h2 {
+color:#6f5b06;
+}
+.read_more {
+    color:#6f5b06;
+}
