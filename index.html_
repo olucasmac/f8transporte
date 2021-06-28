@@ -46,7 +46,8 @@ img.emoji {
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.php@rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 4.7.13" />
-        <link rel="shortcut icon" href="https://f8transporte.com.br/wp-content/themes/themiatheme-trial/images/favicon.ico" />        <script type="text/javascript">
+        <link rel="shortcut icon" href="https://f8transporte.com.br/wp-content/themes/themiatheme-trial/images/favicon.ico" />
+        <script type="text/javascript">
   jQuery(function() { 
     jQuery('a.zoombox').zoombox();
 });
@@ -80,12 +81,16 @@ Cufon.replace('h1, h2, h3, h4, h5, h6', { fontFamily: 'Droid Sans', hover: true 
       <!--Start Menu wrapper-->
       <div class="menu_wrapper">
         <!--Start menu-div-->
-            <div id="menu">        <ul class="ddsmoothmenu">            <li class="current_page_item"><li class="current_page_item"><a href="index.html">Home</a></li><li class="page_item page-item-2"><a href="index.html@p=2.html">A Empresa</a></li>
+            <div id="menu">
+        <ul class="ddsmoothmenu">
+            <li class="current_page_item"><li class="current_page_item"><a href="index.html">Home</a></li><li class="page_item page-item-2"><a href="index.html@p=2.html">A Empresa</a></li>
 <li class="page_item page-item-8"><a href="index.html@p=8.html">Serviços</a></li>
 <li class="page_item page-item-10"><a href="index.html@p=10.html">Fale Conosco</a></li>
 <li class="page_item page-item-12"><a href="index.html@p=12.html">Cidades Atendidas</a></li>
 <li class="page_item page-item-19"><a href="https://mail.google.com/a/f8transporte.com.br" target="_blank">Webmail</a></li>
-        </ul>    </div>            <!--End menu-div-->
+        </ul>
+    </div>
+            <!--End menu-div-->
       </div>
       <!--End Menu wrapper-->
     </div>
